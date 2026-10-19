@@ -10,6 +10,13 @@ A curated collection of open-source Roblox games for learning and inspiration
 <a href="https://create.roblox.com/"><img src="https://img.shields.io/badge/Roblox-Studio-FF0000?style=for-the-badge&logo=roblox&logoColor=white"></a>
 </div>
 
-<img src="https://img.shields.io/badge/Roblox-Game-red?style=for-the-badge&logo=roblox">
-<img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+<div align="center">
+
+<a href="https://t.me/sk3drat">
+  <img src="https://img.shields.io/badge/Telegram-sk3drat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="https://discord.com/users/pafira">
+  <img src="https://img.shields.io/badge/Discord-pafira-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</div>
