@@ -5,10 +5,14 @@
 <div align="center">
 
 A curated collection of open-source Roblox games for learning and inspiration
-
-
+<br><br>
 This repository is for educational/preservation purposes only. All rights belong to their respective owners.
+<br><br>
 
+<img src="https://img.shields.io/badge/Files-841-2ea44f?style=for-the-badge">
+<img src="https://img.shields.io/badge/.rbxl-841-2ea44f?style=for-the-badge">
+
+<br><br>
 <a href="https://create.roblox.com/"><img src="https://img.shields.io/badge/Roblox-Studio-FF0000?style=for-the-badge&logo=roblox&logoColor=white"></a>
 
 </div>
